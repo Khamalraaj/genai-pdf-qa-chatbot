@@ -139,8 +139,10 @@ print(answer)
 ```
 
 ### OUTPUT:
-<img width="1092" height="59" alt="image" src="https://github.com/user-attachments/assets/fff86d88-824b-4370-aaa5-cec2c63e64b3" />
+<img width="1092" height="59" alt="image" src="https://github.com/user-attachments/assets/fff86d88-824b-4370-aaa5-cec2c63e64b3" /> 
+
 <img width="1413" height="201" alt="image" src="https://github.com/user-attachments/assets/bcf8d8b2-86a4-42ed-8c3f-d901402c77d6" />
+
 <img width="991" height="198" alt="image" src="https://github.com/user-attachments/assets/659b0de7-2ab1-49e0-b9c4-0fd3aaf08764" />
 
 
