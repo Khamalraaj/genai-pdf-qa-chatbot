@@ -191,13 +191,13 @@ dashboard = pn.Column(
 ### OUTPUT:
 
 ### Conversation
-<img width="931" height="456" alt="image" src="https://github.com/user-attachments/assets/b6818d36-3703-4c75-93bf-23caae5e15f5" />
+<img width="1125" height="620" alt="image" src="https://github.com/user-attachments/assets/4aa63773-83ff-47ec-90c3-2dba7953ba89" />
 
 ### Database
-<img width="931" height="403" alt="image" src="https://github.com/user-attachments/assets/20f13dc0-842f-4ebc-875b-22b9ae4d798d" />
+<img width="1133" height="605" alt="image" src="https://github.com/user-attachments/assets/d6a1f9e5-08ed-4f51-94e2-aaf61bf6cb3f" />
 
 ### Chat History
-<img width="931" height="335" alt="image" src="https://github.com/user-attachments/assets/ade0e0ba-9208-43f5-b520-0a80fee3b5f9" />
+<img width="1137" height="567" alt="image" src="https://github.com/user-attachments/assets/e3db4a4b-fcdd-48af-8a0a-af26bc4b5688" />
 
 
 ### RESULT:
